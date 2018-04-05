@@ -1,11 +1,9 @@
 # FeriaDeApuntes
 
-# FullStack JS 
-Utilizamos tecnologías que utilicen solamente lenguaje JavaScript.
 
-Base de Datos : MongoDB
-Backend: NodeJS
-Frontend: ReactJS o VueJS
+Base de Datos : Postgres
+Backend: C# .NET Core
+Frontend: Anuglar
 
 Pasos al hacer Pull:
 
